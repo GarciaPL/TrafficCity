@@ -1,0 +1,377 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    border: 0;
+    font: inherit;
+    font-family: Lato, Arial;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    -webkit-text-size-adjust: none;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.clear {
+    clear: both;
+    height: 1px;
+    line-height: 1px;
+}
+
+body {
+    background-color: #d1d1d1;
+    background-image: url("../images/background/bg_gray.jpg");
+    background-position: top center;
+    background-repeat: repeat;
+    width: 100%;
+}
+
+body, p, input {
+    color: #333;
+    font-family: 'Open Sans', Verdana, Geneva, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+::-moz-selection {
+    background: #085299;
+    color: #fff;
+    text-shadow: none;
+}
+
+::selection {
+    background: #085299;
+    color: #fff;
+    text-shadow: none;
+}
+
+#header {
+    background-image: url("../images/background/bg_black.jpg");
+    background-position: top center;
+    background-repeat: repeat;
+    height: 50px;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+}
+
+#page404 {
+    background: transparent url("../images/icons/404.png") no-repeat 0 center;
+    display: inline-block;
+    height: 64px;
+    overflow: hidden;
+    text-indent: -1000em;
+    width: 64px;
+}
+
+#logo_home {
+    width: 220px;
+    height: 75px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 999;
+}
+
+#logoTrafficCity {
+    position: relative;
+    left: 20%;
+    text-align: center;
+    background: transparent url("../images/logo/TrafficCityLogo.png") no-repeat 0 center;
+    display: inline-block;
+    text-indent: -1000em;
+    overflow: hidden;
+    margin-top: 54px;
+    width: 120px;
+    height: 120px;
+}
+
+#page404 {
+    background: transparent url("../images/icons/404.png") no-repeat 0 center;
+    display: inline-block;
+    height: 64px;
+    overflow: hidden;
+    text-indent: -1000em;
+    width: 64px;
+}
+
+#dbError {
+    background: transparent url("../images/icons/mongodb.png") no-repeat 0 center;
+    display: inline-block;
+    height: 100px;
+    overflow: hidden;
+    text-indent: -1000em;
+    width: 299px;
+}
+
+#orange_footer {
+    background: transparent url("../images/footer/orangelogo.png") no-repeat 0 center;
+    display: inline-table;
+    height: 50px;
+    margin: 3px 0px 0px 0px;
+    overflow: hidden;
+    text-indent: -1000em;
+    vertical-align: middle;
+    width: 50px;
+}
+
+.box {
+    margin: 0 auto;
+    position: relative;
+    width: 92%;
+}
+
+#footer {
+    background-image: url("../images/background/bg_black.jpg");
+    background-position: top center;
+    background-repeat: repeat;
+    color: #DDD;
+    font-size: 12px;
+    line-height: 24px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
+
+#footer a:hover {
+    color: #FFF;
+}
+
+#footer_content {
+    margin: 0 auto;
+    padding: 11px 0px 13px 0px;
+    position: relative;
+    width: 100%;
+    z-index: 999;
+}
+
+#footer_content a {
+    color: #DDD;
+}
+
+#footer_content img {
+    margin: 0px 0px 0px 9px;
+    vertical-align: text-top;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #333;
+}
+
+a:visited {
+    color: #333;
+}
+
+a:hover {
+    color: #085299;
+}
+
+h1 {
+    color: #0065a5;
+    font-family: Lato, Arial;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 36px;
+}
+
+.blue {
+    color: #085299;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.center {
+    text-align: center;
+}
+
+.h_nav li {
+    border-top: 1px dashed #999;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 20px;
+    list-style-type: none;
+    padding: 14px 4% 16px 4%;
+    position: relative;
+}
+
+.h_nav img {
+    margin: 0px 0px 0px 0px;
+    padding: 15px 0px 15px 0px;
+    position: absolute;
+    top: 0px;
+}
+
+.h_nav h2 {
+    padding: 0px 0px 0px 30px;
+}
+
+.h_nav li {
+    background-position: 95% 9px;
+    background-repeat: no-repeat;
+}
+
+.h_nav .last {
+    background-image: url("../images/icons/box.png");
+    background-repeat: no-repeat;
+    height: 1px;
+    line-height: 1px;
+    padding: 0px;
+}
+
+.h_nav li:hover {
+    background-color: #ccc;
+}
+
+.h_nav li:hover {
+}
+
+.services_list {
+    padding: 0px 4% 22px 4%;
+}
+
+.services_list p {
+    padding: 0 0 0 30px;
+}
+
+.form_input {
+    background-color: transparent;
+    border: 1px solid #777;
+    height: 35px;
+    margin: 8px 0px;
+    padding: 0px 3%;
+    width: 94%;
+}
+
+.form_send_div {
+    margin: 12px auto;
+    text-align: center;
+    width: 100%;
+}
+
+.form_send {
+    background-color: #085299;
+    border: 1px solid #0066ff;
+    border-radius: 3px 3px 3px 3px;
+    color: #FFF;
+    height: 40px;
+    text-align: center;
+    width: 240px;
+}
+
+.form_send:hover {
+    background-color: #333;
+    border: 1px solid #666;
+}
+
+.ff_error {
+    border: 1px solid #C00;
+    color: #C00;
+}
+
+.f_error {
+    color: #C00;
+    display: block;
+    height: 22px;
+}
+
+.map {
+    background-color: #BBB;
+    height: 250px;
+    width: 100%;
+}
+
+.tsc_tables2_14 {
+    border-collapse: collapse;
+    font-size: 13px;
+    text-align: center;
+    width: 100%;
+}
+
+.tsc_tables2_14 th {
+    border-bottom: 4px solid #808080;
+    color: #333;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 8px 20px;
+}
+
+.tsc_tables2_14 td {
+    color: #666;
+    padding: 22px;
+    padding: 8px 2px 0px 2px;
+}
+
+.tsc_tables2_14 tbody tr:hover td {
+    border-bottom: 1px dotted #ccc;
+    color: #333;
+}
+
+.button_tabelka {
+    background-color: #085299;
+    border: 1px solid #0066ff;
+    border-radius: 3px 3px 3px 3px;
+    color: #FFF;
+    font-size: 12px;
+    height: 30px;
+    text-align: center;
+    width: 120px;
+}
+
+.button_tabelka:hover {
+    background-color: #333;
+    border: 1px solid #666;
+}
+
+.button_tabelka_edit {
+    border: 1px solid #0066ff;
+    border-radius: 3px 3px 3px 3px;
+    font-size: 12px;
+    height: 30px;
+    text-align: center;
+    width: 80px;
+}
