@@ -59,7 +59,7 @@ Can be found in repository in directory /docs.
 
 ## Screenshots
 
-![Dashboard](https://raw.github.com/GarciaPL/TrafficCity/blob/master/images/dashboard.png)
+![Dashboard](https://raw.github.com/GarciaPL/TrafficCity/images/dashboard.png)
 
 ## License
 
