@@ -55,11 +55,11 @@ Under construction
 
 ## Documentation
 
-Can be found in repository in directory /docs.
+Can be found in repository under directory /docs.
 
 ## Screenshots
 
-![Dashboard](https://raw.github.com/GarciaPL/TrafficCity/images/dashboard.png)
+Can be found in repository under directory /images.
 
 ## License
 
