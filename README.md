@@ -62,5 +62,5 @@ Can be found in repository in directory /docs.
 Code released under the GNU GENERAL PUBLIC license. Docs released under Creative Commons.
 
 ## References
-- [htttp://bihapi.pl](htttp://bihapi.pl)
+- [htttp://bihapi.pl](http://bihapi.pl)
 - [http://www.openmiddleware.pl](http://www.openmiddleware.pl)
