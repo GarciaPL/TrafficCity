@@ -2,6 +2,8 @@
 
 Application has been developed on hackathon organized by Orange Poland called BIHAPI (Business Intelligence Hackathon API).
 
+![BIHAPI](https://github.com/GarciaPL/TrafficCity/blob/master/images/bihapi.png "BIHAPI")
+
 ## Installation
 
 Under construction
