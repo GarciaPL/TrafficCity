@@ -57,6 +57,10 @@ Under construction
 
 Can be found in repository in directory /docs.
 
+## Screenshots
+
+![Dashboard](https://raw.github.com/GarciaPL/TrafficCity/blob/master/images/dashboard.png)
+
 ## License
 
 Code released under the GNU GENERAL PUBLIC license. Docs released under Creative Commons.
