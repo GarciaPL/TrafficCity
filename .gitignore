@@ -1,0 +1,12 @@
+target/
+.settings/
+.idea/
+out/
+bin/
+intellij/
+build/
+*.log
+*.log.*
+*.iml
+*.ipr
+*.iws
