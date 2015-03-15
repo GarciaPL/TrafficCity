@@ -7,7 +7,7 @@ Application has been developed on hackathon organized by Orange Poland called BI
 
 ## Installation
 
-Under construction
+Under construction. Please see /docs directory.
 
 ## Technology
 
@@ -20,8 +20,8 @@ Under construction
 
 ##### Interfaces
 
-- Orange interfaces : SIM GeoLocalization API, SMS API, USSD API
-- Warsaw City interfaces : Transport POI Maps
+- Orange : SIM GeoLocalization API, SMS API, USSD API
+- Warsaw City : Transport POI Maps
 
 ##### Libraries
 
@@ -55,6 +55,7 @@ Under construction
 
 ## TO DO
 - Storing OSM files in MongoDB GridFS
+- Pack dedicated to TrafficCity Streets4MPI to jar
 
 ## Documentation
 
@@ -62,7 +63,9 @@ Can be found in repository under directory /docs.
 
 ## Screenshots
 
-Can be found in repository under directory /images.
+![Dashboard](https://github.com/GarciaPL/TrafficCity/blob/master/images/dashboard.png "Dashboard")
+
+More screenshots can be found in repository under directory /images.
 
 ## License
 
