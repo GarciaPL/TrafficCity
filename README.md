@@ -82,7 +82,7 @@ More screenshots can be found in repository under directory /images.
 - [Institute of Transportation Systems - SUMO – Simulation of Urban MObility](http://www.dlr.de/ts/en/desktopdefault.aspx/tabid-9883/16931_read-41000/)
 - [osm2wkt - openstreetmap to wkt conversion](http://www.tm.kit.edu/~mayer/osm2wkt/)
 - [How to build, store and index a road network from a digital city map](http://gis.stackexchange.com/questions/88313/how-to-build-store-and-index-a-road-network-from-a-digital-city-map)
-- [osm2pgrouting Import Tool¶](http://workshop.pgrouting.org/chapters/osm2pgrouting.html)
+- [osm2pgrouting Import Tool](http://workshop.pgrouting.org/chapters/osm2pgrouting.html)
 - [Veins - The open source vehicular network simulation framework](http://veins.car2x.org)
 - [Streets4MPI – Parallel Traffic Simulation with Python and MPI](http://jfietkau.github.io/Streets4MPI/)
 - [Streets4MPI (Parallel Programming Project)](http://www.slideshare.net/jfietkau/streets4mpi-parallel-programming-project)
