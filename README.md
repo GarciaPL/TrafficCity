@@ -64,8 +64,15 @@ Can be found in repository under directory /docs.
 ## Screenshots
 
 ![Dashboard](https://github.com/GarciaPL/TrafficCity/blob/master/images/dashboard.png "Dashboard")
+![User markers](https://github.com/GarciaPL/TrafficCity/blob/master/images/markers.png "User markers")
+![Upload OSM](https://github.com/GarciaPL/TrafficCity/blob/master/images/uploadosm.png "Upload OSM")
+![HeatMap](https://github.com/GarciaPL/TrafficCity/blob/master/images/gallery.png "HeatMap")
 
 More screenshots can be found in repository under directory /images.
+
+## Literature
+
+- [http://www.ioz.pwr.wroc.pl/pracownicy/weron/prace/Bartodziej07.pdf](Politechnika Wrocławska Wydział Informatyki i Zarządzania - Modelowanie ruchu ulicznego za pomocą automatów komórkowych - Maciej Bartodziej)
 
 ## License
 
