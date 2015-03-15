@@ -5,6 +5,8 @@ Application has been developed on hackathon organized by Orange Poland called BI
 ![BIHAPI](https://github.com/GarciaPL/TrafficCity/blob/master/images/bihapi.png "BIHAPI")
 ![Orange](https://github.com/GarciaPL/TrafficCity/blob/master/images/orange.png "Orange")
 
+NOTE - At this moment app is in alpha phase, probably would remain so.
+
 ## Installation
 
 Under construction. Please see /docs directory.
@@ -15,7 +17,7 @@ Under construction. Please see /docs directory.
 
 - Technology : Java 7
 - NoSQL Database : MongoDB 2.6.5
-- Application server : JBoss Application Server 7.1.1
+- Application server : JBoss AS 7.1.1
 - Framework : Spring Framework 4.0.5.RELEASE
 
 ##### Interfaces
@@ -72,8 +74,19 @@ More screenshots can be found in repository under directory /images.
 
 ## Literature
 
-- [http://www.ioz.pwr.wroc.pl/pracownicy/weron/prace/Bartodziej07.pdf](Politechnika Wrocławska Wydział Informatyki i Zarządzania - Modelowanie ruchu ulicznego za pomocą automatów komórkowych - Maciej Bartodziej)
 - [Politechnika Wrocławska Wydział Informatyki i Zarządzania - Modelowanie ruchu ulicznego za pomocą automatów komórkowych - Maciej Bartodziej](http://www.ioz.pwr.wroc.pl/pracownicy/weron/prace/Bartodziej07.pdf)
+- [Online Traffic Simulation Service for Highway Incident Management](http://onlinepubs.trb.org/Onlinepubs/IDEA/FinalReports/Reliability/FINALREPORTL15C%20.pdf)
+- [GitHub vasile/transit-map](https://github.com/vasile/transit-map)
+- [GitHub eishub/TrafficSim](https://github.com/eishub/TrafficSim)
+- [How to create your own offline maps](https://github.com/cgeo/cgeo/wiki/How-to-create-your-own-offline-maps)
+- [Institute of Transportation Systems - SUMO – Simulation of Urban MObility](http://www.dlr.de/ts/en/desktopdefault.aspx/tabid-9883/16931_read-41000/)
+- [osm2wkt - openstreetmap to wkt conversion](http://www.tm.kit.edu/~mayer/osm2wkt/)
+- [How to build, store and index a road network from a digital city map](http://gis.stackexchange.com/questions/88313/how-to-build-store-and-index-a-road-network-from-a-digital-city-map)
+- [osm2pgrouting Import Tool¶](http://workshop.pgrouting.org/chapters/osm2pgrouting.html)
+- [Veins - The open source vehicular network simulation framework](http://veins.car2x.org)
+- [Streets4MPI – Parallel Traffic Simulation with Python and MPI](http://jfietkau.github.io/Streets4MPI/)
+- [Streets4MPI (Parallel Programming Project)](http://www.slideshare.net/jfietkau/streets4mpi-parallel-programming-project)
+- [OSM2PO](http://osm2po.de)
 
 ## License
 
