@@ -1,0 +1,32 @@
+# OSM data #
+############
+# These are simply too big to commit in most cases
+*.osm
+# Except a small test file
+!test.osm
+
+# Visualization files #
+#######################
+*.s4mpi
+*.png
+
+# Compiled source #
+###################
+*.pyc
+
+# Logs and databases #
+######################
+*.log
+
+# Temporary files #
+###################
+*~
+*.swp
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
