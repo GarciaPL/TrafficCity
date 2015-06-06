@@ -96,4 +96,3 @@ Code released under the GNU GENERAL PUBLIC license. Docs released under Creative
 - [http://bihapi.pl](http://bihapi.pl)
 - [http://www.openmiddleware.pl](http://www.openmiddleware.pl)
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/GarciaPL/trafficcity/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
