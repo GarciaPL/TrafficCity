@@ -100,3 +100,4 @@ Code released under the GNU GENERAL PUBLIC license. Docs released under Creative
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/GarciaPL/trafficcity/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+[![ghit.me](https://ghit.me/badge.svg?repo=GarciaPL/TrafficCity)](https://ghit.me/repo/GarciaPL/TrafficCity)
